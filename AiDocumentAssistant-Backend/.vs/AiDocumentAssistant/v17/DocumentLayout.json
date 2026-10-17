@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\services\\semantickernelaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\services\\semantickernelaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\services\\ollamaaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\services\\ollamaaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\services\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\services\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\dtos\\documentanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\dtos\\documentanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\dtos\\documentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\dtos\\documentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|c:\\csharpcoding\\aidocumentassistant\\aidocumentassistant-backend\\aidocumentassistant\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CA6183-7D52-4E19-8A94-B7285ECE87C1}|AiDocumentAssistant\\AiDocumentAssistant.csproj|solutionrelative:aidocumentassistant\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\.gitignore",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\.gitignore",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\.gitignore",
+              "RelativeToolTip": "AiDocumentAssistant\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T13:46:58.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SemanticKernelAIService.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\SemanticKernelAIService.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Services\\SemanticKernelAIService.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\SemanticKernelAIService.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Services\\SemanticKernelAIService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T12:59:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentProcessor.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\DocumentProcessor.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Services\\DocumentProcessor.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\DocumentProcessor.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Services\\DocumentProcessor.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T05:03:32.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentAnalysisResult.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\DTOs\\DocumentAnalysisResult.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\DTOs\\DocumentAnalysisResult.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\DTOs\\DocumentAnalysisResult.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\DTOs\\DocumentAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T05:02:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Program.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Program.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Program.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:48:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OllamaAIService.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\OllamaAIService.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Services\\OllamaAIService.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\OllamaAIService.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Services\\OllamaAIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:47:07.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\appsettings.json",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\appsettings.json",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\appsettings.json",
+              "RelativeToolTip": "AiDocumentAssistant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T16:44:43.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Services\\DocumentService.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAIBJwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:05:43.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Controllers\\DocumentsController.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T05:03:00.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AiDocumentAssistant\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T16:44:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\Models\\Document.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\Models\\Document.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\Models\\Document.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:05:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentResponseDto.cs",
+              "DocumentMoniker": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\DTOs\\DocumentResponseDto.cs",
+              "RelativeDocumentMoniker": "AiDocumentAssistant\\DTOs\\DocumentResponseDto.cs",
+              "ToolTip": "C:\\csharpcoding\\AiDocumentAssistant\\AiDocumentAssistant-Backend\\AiDocumentAssistant\\DTOs\\DocumentResponseDto.cs",
+              "RelativeToolTip": "AiDocumentAssistant\\DTOs\\DocumentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:05:24.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

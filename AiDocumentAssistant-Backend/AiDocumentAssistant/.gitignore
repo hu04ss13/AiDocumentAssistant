@@ -1,0 +1,17 @@
+﻿
+# .NET build output
+**/bin/
+**/obj/
+.vs/
+
+# React dependencies and build output
+**/node_modules/
+**/dist/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+
+# Local secrets and IDE files
+secrets.json
